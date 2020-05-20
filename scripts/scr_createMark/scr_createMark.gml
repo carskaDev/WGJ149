@@ -1,0 +1,1 @@
+instance_create_depth(argument[0] - 4, argument[1], -10, obj_goal_mark);

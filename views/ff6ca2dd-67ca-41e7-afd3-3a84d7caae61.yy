@@ -1,0 +1,31 @@
+{
+    "id": "ff6ca2dd-67ca-41e7-afd3-3a84d7caae61",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "ff6ca2dd-67ca-41e7-afd3-3a84d7caae61",
+    "children": [
+        "63f488eb-840c-4a82-bb95-fa3a96ffcbd8",
+        "e9aac552-8609-4d0b-868e-2e76e3555ffd",
+        "f1e44a87-3c8e-4900-86bc-3ff79e85ea42",
+        "96e8e855-d7a0-466e-bc4f-6ff3ba618086",
+        "98ffbdf7-25f2-45de-84ea-76ec0a30b66f",
+        "b15a5617-99d6-42f3-9fb5-7a38ad75230f",
+        "ae9e1b7a-ccc5-4f97-8b0c-061fdf3eb89d",
+        "713b209f-a5b3-448f-8d41-aa766fa6af1c",
+        "cf5335fe-c848-42a5-986a-179837407282",
+        "6cc1f54c-b8f8-44ef-b652-69a912655a27",
+        "6c92858a-1ca1-41c5-97f0-58f1e7615114",
+        "9b98e914-645b-451a-b4f8-3dc63e5d29a0",
+        "31443475-467c-4ae7-9870-7bdfea884c80",
+        "60bdb065-c052-4da6-b805-c16323709bc1",
+        "d24c3ef6-bf54-44a8-a911-82985ffc0335",
+        "18ebf607-85a7-43e0-afc2-62232208ec76",
+        "acd1b2bf-eb38-4f47-abfa-5541bf901fed",
+        "199510b0-448d-4dec-a3cf-a5bbb207b62b",
+        "8a4e74d6-bd28-4dac-a8de-25dac65c53d8"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Varasto",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
